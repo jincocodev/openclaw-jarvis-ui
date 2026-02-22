@@ -1,6 +1,6 @@
 {
   "name": "openclaw-jarvis-ui",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "這是 OpenClaw 的互動介面原型（JARVIS 風格 HUD）。 以 CodePen yyyRgry 為基礎，已**完整本地化離線**，可作為後續互動 UI 的雛形。",
   "main": "server/index.js",
   "scripts": {
